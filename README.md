@@ -3,10 +3,10 @@ This is a case study bike sharing  assignment for building and analyzing a Linea
 This project demonstrates the application of a Linear Regression model to analyze and predict bike-sharing demand based on key factors.
 
 # Table of Contents
-Overview
-Tools & Technologies
-Key Insights
-Special Mentions
+ Overview
+ Tools & Technologies
+ Key Insights
+ Special Mentions
 
 # Overview
 This project focuses on analyzing a bike-sharing system, where bikes are made available for short-term rental, either for a fee or free of charge.
@@ -15,9 +15,9 @@ The objective here is to build a predictive model to understand the factors that
 The dataset used for this analysis was sourced from an Upgrad-provided dataset, covering various factors that affect daily bike demand.
 
 # Tools and Technologies
-Python 3.11
-Data Visualization: Seaborn and Matplotlib
-Modeling: Statsmodels API for implementing Linear Regression
+ Python 3.11
+ Data Visualization: Seaborn and Matplotlib
+ Modeling: Statsmodels API for implementing Linear Regression
 
 # Key Insights
 The Linear Regression model reveals that factors like temperature, wind speed, and the pre-COVID period had a significant impact on bike demand.
@@ -27,4 +27,4 @@ BoomBikes can use these insights to better manage bike availability and prepare 
 This project builds on concepts covered in the Upgrad course and live sessions, which provided a strong foundation in data science and machine learning.
 
 # Contact
-Created by Nupur Jha — feel free to reach out!
+Created by Nupur Jha [https://github.com/NupurJha-2794/Bike-Sharing-Assignment] — feel free to reach out!
